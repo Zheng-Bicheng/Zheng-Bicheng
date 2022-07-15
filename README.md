@@ -5,8 +5,8 @@
 
 ### 🌈 Github Stats:
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@Bicheng?theme=rule34"></a><br>
-<img src = "https://github-readme-stats.vercel.app/api?username=Bicheng&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=Bicheng&theme=dracula">
+<img src = "https://github-readme-stats.vercel.app/api?username=Zheng-Bicheng&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=Zheng-Bicheng&theme=dracula">
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bicheng&theme=monokai">
 
 ### 📫 How to reach me:
