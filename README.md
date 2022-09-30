@@ -15,20 +15,19 @@
     <img alt="RKNNToolKit" src="https://img.shields.io/badge/RKNPU2-red?style=flat-squar">
 </p>
 
-<h3>Open source projects</h3>
+<h3>Open Source Projects</h3>
 
 | 🎁 Projects                                                                               | ❔Description                                                               |
 |-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | <a href="https://github.com/Zheng-Bicheng/EasyDeploy"><b>EasyDeploy</b></a>               | An Easy Deployment Toolkit For The Second Generation Products Of Rockchip. |
 | <a href="https://github.com/Zheng-Bicheng/AdaFacePaddleCLas"><b>AdaFacePaddleCLas</b></a> | Training AdaFace with PaddleClas.                                          |
 
-<h3>🌈 Github Stats:</h3>
+<h3>AIStudio Projects</h3>
 
-
-<img src = "https://github-readme-stats.vercel.app/api?username=Zheng-Bicheng&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=Zheng-Bicheng&theme=dracula">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zheng-Bicheng&theme=monokai">
-
+| 🎁 Projects                                                                                                                                                          | ❔Description                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| <a href="https://aistudio.baidu.com/aistudio/projectdetail/4513645?contributionType=1&sUid=790375&shared=1&ts=1664521938775"><b>AI达人创造营第三期】从零教你搭建基础人脸识别系统</b></a>    | An Face Recognition For The Second Generation Products Of Rockchip. |
+| <a href="https://aistudio.baidu.com/aistudio/projectdetail/4479879?contributionType=1&sUid=790375&shared=1&ts=1664521895493"><b>【PaddleClas】手把手让你训练自己的人脸识别模型</b></a> | Training AdaFace with PaddleClas in AIStudio.                       |
 
 <h3>Where to find me</h3>
 <p align="center">
