@@ -31,6 +31,7 @@
 
 
 <h3>Where to find me</h3>
-
-- Github: [github@Zheng-Bicheng](https://github.com/Zheng-Bicheng)
-- Email: [zheng_bicheng@outlook.com](mailto:zheng_bicheng@outlook.com)
+<p align="center">
+<a href="https://github.com/Zheng-Bicheng" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-black" /></a> 
+<a href="https://aistudio.baidu.com/aistudio/personalcenter/thirdview/790375" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-AIStudio-blue" /></a>
+<p>
