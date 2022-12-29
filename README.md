@@ -1,36 +1,69 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt=""/> Hey! Nice to see you.</h1>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+</div>  
+  
 
-<p>Welcome to my page! <br/> I'm ZhengBicheng. The developer from China, currently living in Fuzhou. </p>
+ I'm ZhengBicheng, a edge computing engineer.  
+  
 
-<h3>Things I code with</h3>
-<p align="center">
-    <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white">
-    <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white">
-    <img alt="Pytorch" src="https://img.shields.io/badge/Paddle-blueviolet?style=flat-square&logo=pytorch&logoColor=white">
-    <img alt="RKNNToolKit" src="https://img.shields.io/badge/RKNNToolKit-red?style=flat-squar">
-    <br/>
-    <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
-    <img alt="QT" src="https://img.shields.io/badge/Qt-white?style=flat-square&logo=Qt">
-    <img alt="RKNNToolKit" src="https://img.shields.io/badge/RKNPU2-red?style=flat-squar">
-</p>
+- 🔭 I’m currently working on [FastDeploy](https://github.com/PaddlePaddle/FastDeploy)  
+  
 
-<h3>Open Source Projects</h3>
+- 🌱 I’m currently studying how to deploy models on Rockchip series chips.  
+  
 
-| 🎁 Projects                                                                               | ❔Description                                                               |
-|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| <a href="https://github.com/Zheng-Bicheng/EasyDeploy"><b>EasyDeploy</b></a>               | An Easy Deployment Toolkit For The Second Generation Products Of Rockchip. |
-| <a href="https://github.com/Zheng-Bicheng/AdaFacePaddleCLas"><b>AdaFacePaddleCLas</b></a> | Training AdaFace with PaddleClas.                                          |
+- ❓ Ask me about anything related to edge computing on RKNPU and related technologies.  
+  
 
-<h3>AIStudio Projects</h3>
+<br/>  
 
-| 🎁 Projects                                                                                                                                                          | ❔Description                                                        |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| <a href="https://aistudio.baidu.com/aistudio/projectdetail/4513645?contributionType=1&sUid=790375&shared=1&ts=1664521938775"><b>AI达人创造营第三期】从零教你搭建基础人脸识别系统</b></a>    | An Face Recognition For The Second Generation Products Of Rockchip. |
-| <a href="https://aistudio.baidu.com/aistudio/projectdetail/4479879?contributionType=1&sUid=790375&shared=1&ts=1664521895493"><b>【PaddleClas】手把手让你训练自己的人脸识别模型</b></a> | Training AdaFace with PaddleClas in AIStudio.                       |
 
-<h3>Where to find me</h3>
-<p align="center">
-<a href="https://github.com/Zheng-Bicheng" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-black" /></a> 
-<a href="https://aistudio.baidu.com/aistudio/personalcenter/thirdview/790375" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-AIStudio-blue" /></a>
-<p>
+## My Skill Set  
+<table><tr><td valign="top" width="50%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="50%">
+
+
+
+### Open Source Repository  
+<div align="center">  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Zheng-Bicheng&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Open Source Project  
+- [FastDeploy](https://github.com/PaddlePaddle/FastDeploy) : An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for Edge.   
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Zheng-Bicheng&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
