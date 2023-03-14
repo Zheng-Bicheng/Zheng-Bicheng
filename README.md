@@ -50,15 +50,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Zheng-Bicheng&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Open Source Project  
-- [FastDeploy](https://github.com/PaddlePaddle/FastDeploy) : An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for Edge.   
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Zheng-Bicheng&&style=flat-square" align="center" />
 </div>  
