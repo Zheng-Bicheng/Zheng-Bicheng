@@ -4,17 +4,7 @@
   
 
  I'm ZhengBicheng, a edge computing engineer.  
-  
-
-- 🔭 I’m currently working on [FastDeploy](https://github.com/PaddlePaddle/FastDeploy)  
-  
-
-- 🌱 I’m currently studying how to deploy models on Rockchip series chips.  
-  
-
-- ❓ Ask me about anything related to edge computing on RKNPU and related technologies.  
-  
-
+ 
 <br/>  
 
 
