@@ -1,8 +1,9 @@
-<div style="text-align:center;">
-    <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-    <h3 title="hehehe"> Hey 👋, I'm Zheng-Bicheng!</h3>
-    <p><strong>A Embedded Edge Computing Engineer 🚀</em></p>
-</div>
+<p align="center">
+  <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+</p>
+
+<h1 align="center"> Hey 👋, I'm Zheng-Bicheng!</h1>
+<h3 align="center"> A Embedded Edge Computing Engineer 🚀</h3>
 
 <p><strong>About Me!</strong></p>
 <ul>
