@@ -1,54 +1,46 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<div style="text-align:center;">
+    <h3 title="hehehe"> Hey 👋, I'm Zheng-Bicheng!</h3>
+    <p><strong>A Embedded Edge Computing Engineer 🚀</em></p>
+</div>
 
-### <div align="center">I'm Zheng-Bicheng, a full-time Embedded Software Engineer 👨‍💻 working remotely since 2022. 🚀</div>  
-  
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on [Lockzhiner](https://www.fzlzdz.com) and am responsible for the development of host computer software and AI applications.  
-  
+<p><strong>About Me!</strong></p>
+<ul>
+<li>👨‍🎓 Education | Bachelor of Computer Science and Technology</li>
+<li>👨‍💻 Occupation | Embedded Edge Computing Engineer</li>
+<li>
+    <span>🎃 Hobbies | </span>
+    <span style="background-color: #FFCBB9; padding: 2px;">Eating</span>
+    <span style="background-color: #D3B8F3; padding: 2px;">Drinking</span>
+    <span style="background-color: #A3D8FF; padding: 2px;">Playing Games</span>
+    <span style="background-color: #DBC3EA; padding: 2px;">Exploring Technology</span>
+    <span style="background-color: #E9EEEF; padding: 2px;">Writing</span>
+</li>
+<li>
+    <span>✨ Titles | </span>
+    <span style="background-color: #FFCBB9; padding: 2px;">Arm Ambassador</span>
+    <span style="background-color: #D3B8F3; padding: 2px;">PFCC</span>
+    <span style="background-color: #A3D8FF; padding: 2px;">PPDE</span>
+</li>
+<li>
+    <span>🏷️ Personal Tags | </span>
+    <span style="background-color: #FFF3CD; padding: 2px;">Programmer aspiring to be a product manager</span>
+    <span style="background-color: #FFD8B1; padding: 2px;">Open-source contributor</span>
+    <span style="background-color: #BDE0FE; padding: 2px;">Outgoing</span>
+    <span style="background-color: #C9FAD3; padding: 2px;">Food lover</span>
+</li>
+<li>📮 Email | <a href="zheng_bicheng@outlook.com">zheng_bicheng@outlook.com</a></li>
+<li>🦑 Github | <a href="zheng_bicheng@outlook.com">Zheng-Bicheng</a></li>
+</ul>
 
-- 🌱 I’m currently learning Edge computing.  
-  
+<p><strong>Languages and Tools:</strong></p>
+<p>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"></code>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/c-original.svg"></code>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"></code>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"></code>
+<p>
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Code is more. Please convince me with your code.  
-  
-
-<br/>  
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p><strong>GitHub Stats:</strong></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Zheng-Bicheng" alt="Zheng-Bicheng's GitHub Stats">
